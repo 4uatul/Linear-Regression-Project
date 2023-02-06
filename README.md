@@ -28,7 +28,7 @@ Before you start, make sure you have the following libraries and packages instal
 - Seaborn
 - Scikit-learn
 ## Usage
-To run the code, open the linear_regression.ipynb file in Jupyter Notebook and run the cells one by one.
+To run the code, open the ``linear_regression.ipynb`` file in Jupyter Notebook and run the cells one by one.
 
-Contributing
+## Contributing
 This repository is open to contributions. If you have any suggestions or improvements, feel free to open a pull request.
